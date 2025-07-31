@@ -28,7 +28,7 @@ else:
 
 print("Qual é o proximo número na sequência: 1, 3, 6, 10? \n (A)12 \n (B)15 \n (C)18 \n (D)20") # pergunta 3
 
-resposta3 = input("Rsposta: ").upper()
+resposta3 = input("Resposta: ").upper()
 if resposta3 == "B":
     print("correta!")
     score = score + 1
